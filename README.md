@@ -4,7 +4,7 @@ homework wk 13
 
 ## What does this application do
 
-This app is compatibility-based "FriendFinder" application -- basically a dating app. However, I have created an array of made up friend names and used images from https://www.pexels.com/search/man/. This is a full-stack app. The users are required to fill out a survey form, including their name, provide an HTTP link to their picture and they are asked to answer all questions.  After that, the results from user are compared with the answers of other users. Then the app will then display the name and picture of the user with the best overall match. The closest match will be the user with the least amount of difference.
+This app is compatibility-based "FriendFinder" application -- basically a dating app. However, I have created an array of made up friend-names and used images from https://www.pexels.com/search/man/. This is a full-stack app. The users are required to fill out a survey form, including their name, provide an HTTP link to their picture and they are asked to answer all questions.  After that, the results from user are compared with the answers of other users. Then the app will then display the name and picture of the user with the best overall match. The closest match will be the user with the least amount of difference.
 
 ## Technologies used
 * Express (to handle the routing)
