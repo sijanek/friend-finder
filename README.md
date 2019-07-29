@@ -1,6 +1,5 @@
-### Friend Finder
+## Friend Finder
 homework wk 13 
-## friend-finder
 
 ## What does this application do
 
