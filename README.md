@@ -41,5 +41,5 @@ where each answer to each question is subtracted from the same numerical answer 
 
 A modal popup is constructed to display the results; the name and a photo of the best match.
 
-Go to [Heroku](https://git.heroku.com/serene-thicket-42231.git) or [GitHub](https://sijanek.github.io/friend-finder/) to check out my version of the app.
+Go to [Heroku](https://serene-thicket-42231.herokuapp.com/) or [GitHub](https://sijanek.github.io/friend-finder/) to check out my version of the app.
 
